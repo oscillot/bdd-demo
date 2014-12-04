@@ -1,0 +1,10 @@
+In its current state maven should download all necessary dependencies and the tests should execute.
+
+One will pass and one will fail (this is by design).
+
+Default reports are generated in the folder /target/jbehave/view and I’ve also included my ConsoleStoryReporter class
+for better test output and as an example of how to add a custom StoryReporter class.
+
+It should be suitable as a skeleton to start your own JBehave project if desired.
+
+Once the project is all set up, run the class “ExampleJBehaveStory” as a Junit test.
