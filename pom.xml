@@ -228,24 +228,6 @@
                             <artifactSet>
                                 <includes>
                                     <include>org.jbehave:*</include>
-                                    <include>org.springframework:*</include>
-                                    <include>commons-lang:*</include>
-                                    <include>commons-logging:*</include>
-                                    <include>commons-collections:*</include>
-                                    <include>commons-io:*</include>
-                                    <include>com.thoughtworks.paranamer:*</include>
-                                    <include>org.codehaus.plexus:*</include>
-                                    <include>com.here.had.tools:processing-tools:*</include>
-                                    <include>org.jsoup:*</include>
-                                    <include>com.jcraft:jsch:*</include>
-                                    <include>com.google.guava:*</include>
-                                    <include>net.sf.jopt-simple:*</include>
-                                    <include>com.here.had.bmw:*</include>
-                                    <include>com.google.protobuf:*</include>
-                                    <include>com.googlecode.protobuf:*</include>
-                                    <include>com.googlecode.protobuf-java-format:*</include>
-                                    <include>org.slf4j:*</include>
-                                    <include>log4j:*</include>
                                 </includes>
                             </artifactSet>
                         </configuration>
